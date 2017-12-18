@@ -154,6 +154,11 @@ p{
     margin-bottom: 0;
 }
 
+.box{
+    transition: all .25s ease;
+    display: inline;
+}
+
 #fader {
     opacity:0;
  }
@@ -189,5 +194,9 @@ p{
     right: 0;
   }
 
-  
-
+  /* Fade */
+  .box:hover, .box:focus, .box:active {
+    background-color: #2B2B2B;
+    color: #F1F1F1;
+    padding-bottom: .10rem;
+  }
