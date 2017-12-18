@@ -196,7 +196,9 @@ p{
 
   /* Fade */
   .box:hover, .box:focus, .box:active {
-    text-decoration-line: underline;
+    background-color: #2B2B2B;
+    color: #F1F1F1;
+    padding-bottom: .10rem;
   }
 
   .link:hover, .link:focus, .link:active{
