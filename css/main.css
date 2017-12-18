@@ -200,3 +200,7 @@ p{
     color: #F1F1F1;
     padding-bottom: .10rem;
   }
+
+  .link:hover, .link:focus, .link:active{
+    background-color: #F1F1F1;
+  }
