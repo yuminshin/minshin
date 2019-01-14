@@ -1,2 +1,2 @@
 # minshin
-my website
+personal website
