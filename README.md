@@ -1,2 +1,2 @@
-# minshin
-my website
+# Min Shin
+personal website
