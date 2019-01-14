@@ -1,2 +1,2 @@
-# minshin
+# Min Shin
 personal website
